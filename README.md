@@ -4,6 +4,12 @@ This repository implements **image-based steganography**, allowing you to **embe
 
 ---
 
+## Motivating Research Articles
+Babu, T., & Nair, R. R. (2025). Secure Data Embedding in Digital Images: Enhancing Covert Communication with LSB-Based Techniques. Procedia Computer Science, 258, 2091-2100 and found at https://www.sciencedirect.com/science/article/pii/S1877050925015625 
+
+Panigrahi, R., & Padhy, N. (2025). An effective steganographic technique for hiding the image data using the LSB technique. Cyber Security and Applications, 3, 100069 and found at https://www.sciencedirect.com/science/article/pii/S2772918424000353
+---
+
 ## Concepts: Steganography
 
 **Steganography** is the art of hiding secret information within ordinary, non-suspicious media so that its existence is concealed. Unlike encryption, which scrambles data but clearly indicates the presence of secret information, steganography hides **the fact that a secret exists at all**.
