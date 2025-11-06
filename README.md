@@ -8,6 +8,7 @@ This repository implements **image-based steganography**, allowing you to **embe
 Babu, T., & Nair, R. R. (2025). Secure Data Embedding in Digital Images: Enhancing Covert Communication with LSB-Based Techniques. Procedia Computer Science, 258, 2091-2100 and found at https://www.sciencedirect.com/science/article/pii/S1877050925015625 
 
 Panigrahi, R., & Padhy, N. (2025). An effective steganographic technique for hiding the image data using the LSB technique. Cyber Security and Applications, 3, 100069 and found at https://www.sciencedirect.com/science/article/pii/S2772918424000353
+
 ---
 
 ## Concepts: Steganography
